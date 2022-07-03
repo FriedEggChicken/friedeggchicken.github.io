@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "개발을 위한 컴퓨터 세팅"
-subtitle:   "python,데이터 사이언티스트, 인공지능 개발자를 위함"
+title: 개발을 위한 컴퓨터 세팅
+subtitle: 'python,데이터 사이언티스트, 인공지능 개발자를 위함'
 categories: etc
 tags: etc
 comments: true
+published: true
 ---
 ## 개요
 > 구글 드라이브 폴더 설치, 아나콘다 설치, 비주얼 스튜디오 코드 설치, Visual Studio code와 Anaconda 터미널 연동
@@ -19,6 +20,7 @@ comments: true
 
 ## 글을 쓰게된 이유
 ---
+dddd
 깃허브 블로그(Github Pages)를 개설한 이후 슬슬 노트북을 정리할 때라고 생각했다.
 필자는 학교생활하면서 항상 한학기가 끝나면 노트북 포멧을 하였다.
 사실 포멧을 평생해본적이 없다가 (무서워서) 학교생활을 하면서 주변에서 동기들이 여유있을때 포멧을 한다고해서 학기가 끝나고 포멧을 처음 하게된 이후 반년마다 포멧을 하는 편이다.
