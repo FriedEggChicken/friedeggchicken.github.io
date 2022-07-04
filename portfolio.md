@@ -10,7 +10,7 @@ order: 2
 <span style=
 "font-size:170%;
 font-weight:bold">
-이상훈
+<!-- >이상훈
 </span>
 </center>
 
@@ -23,16 +23,16 @@ font-weight:bold">
 
 ## Personal Data
 ---
-> 1998.Incheon
+> <!-- >1998.Incheon
 
-> 연락처: sonheungminson@gmail.com
+> <!-- >연락처: sonheungminson@gmail.com
 
 > Github : <a href="https://github.com/FriedEggChicken">https://github.com/FriedEggChicken</a>
 
 
 ## Education
 ---
-> Mar.2017 ~  아주대학교
+> <!-- >Mar.2017 ~  아주대학교
 >
 > 
 
